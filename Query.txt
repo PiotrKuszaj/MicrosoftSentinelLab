@@ -1,0 +1,4 @@
+FAILED_RDP_WITH_GEO_CL //YOUR lOG TABLE NAME
+| parse RawData with ",state:" State ", country:" Country ",label:" Label
+| where isnotempty(Country) and isnotempty(State)
+| summarize Count=count() by Country, State
