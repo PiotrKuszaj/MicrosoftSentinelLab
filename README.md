@@ -101,8 +101,8 @@ Editing filters such as Time Range:  <br/>
 <img src="https://i.imgur.com/zffhaYv.gif" height="80%" width="80%" alt=""/>
 <br />
 <br />
-A map is made! It can be adjusted to auto refresh:<br>
-It will update with the failed login attempts onto the virtual machine and display locations on the map:<br/>
+A map is made! It can be adjusted to auto refresh<br>
+The map will update with the failed logins from across the world:<br/>
 <img src="https://i.imgur.com/SHo7hy5.png" height="80%" width="80%" alt=""/>
 </p>
 <!--
